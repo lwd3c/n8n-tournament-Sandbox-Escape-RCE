@@ -4,8 +4,6 @@ A critical sandbox escape vulnerability exists in n8n's expression evaluator. Th
 
 **CVSS 3.1 Vector:** `AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H`
 
-**CVSS 3.1 Base Score:** 9.9 (Critical)
-
 ---
 
 ## Affected Versions
